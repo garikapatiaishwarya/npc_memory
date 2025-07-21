@@ -69,7 +69,7 @@ Return NPC Reply → Update Chat UI Live
 1. **Clone this Repository:**
 
 ```bash
-git clone https://github.com/NJVinay/npc_memory.git
+git clone https://github.com/garikapatiaishwarya/npc_memory
 cd npc_memory
 ```
 
